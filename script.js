@@ -4,8 +4,8 @@ document.getElementById("data").innerHTML = data.toUpperCase();
 
 const yesBtn = document.querySelector('#yesBtn');
 yesBtn.addEventListener('click', function(){
-    alert('Siempre supe que aceptarías 😘💕');
-    location.href = 'https://www.youtube.com/watch?v=0uZdFmbGGaU';
+    alert('Te amo como no tienes idea😘💕');
+    location.href = 'https://youtu.be/VBiNZcH27Y8?si=pXaOCri64taBQ2el';
 });
 
 const noBtn = document.querySelector('#noBtn');
